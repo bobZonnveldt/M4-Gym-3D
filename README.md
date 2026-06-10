@@ -10,4 +10,5 @@ game aanzicht van map
 
 
 <img width="552" height="262" alt="quick animations" src="https://github.com/user-attachments/assets/db4bce59-4008-4147-844d-4a428ac47d0d" />
-dit zijn de animaties idle walking rennen en springen
+
+dit zijn de animaties idle walking rennen en springen gedaan door de animator en character controller
