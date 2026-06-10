@@ -14,3 +14,6 @@
 <img width="552" height="262" alt="quick animations" src="https://github.com/user-attachments/assets/db4bce59-4008-4147-844d-4a428ac47d0d" />
 
 dit zijn de animaties idle walking rennen en springen gedaan door de animator en character controller
+
+<img width="390" height="326" alt="slopecheck" src="https://github.com/user-attachments/assets/92bef18b-ac87-40c3-a16a-7d713d802c14" />
+meer movement van de character controller en een better zicht op de walking animation
