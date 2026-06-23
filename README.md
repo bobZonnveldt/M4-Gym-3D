@@ -17,3 +17,11 @@ dit zijn de animaties idle walking rennen en springen gedaan door de animator en
 
 <img width="390" height="326" alt="slopecheck" src="https://github.com/user-attachments/assets/92bef18b-ac87-40c3-a16a-7d713d802c14" />
 meer movement van de character controller en een better zicht op de walking animation
+<img width="1208" height="656" alt="Recording 2026-06-23 182912" src="https://github.com/user-attachments/assets/db92c850-1fe2-4cac-8ac5-a08943bfdc85" />
+
+
+
+
+
+
+
